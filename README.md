@@ -28,8 +28,8 @@ Usuários devem conseguir:
 ![Preview da página](print.png)
 ### Links
 
-- Solução URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solução URL: [Add solution URL here](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-jwLO0gB6j0)
+- Live Site URL: [Add live site URL here](https://huddle-landing-page-frontend-mentor-one.vercel.app/)
 
 ## Meu processo
 
