@@ -26,7 +26,6 @@ Usuários devem conseguir:
 ### Screenshot
 
 ![Preview da página](/images/screenshot.png)
-
 ### Links
 
 - Solução URL: [Add solution URL here](https://your-solution-url.com)
